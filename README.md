@@ -21,9 +21,3 @@ PS：不会对任何 DEV 环境下的代码做解读。
 - [ ] compiler-core
 - [ ] compiler-dom
 
-## 一起学习
-
-觉得内容有帮助可以关注下我的公众号 「前端真好玩」或者加入 Vue 源码交流群。
-
-![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034138.jpg)
-![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034140.png)
